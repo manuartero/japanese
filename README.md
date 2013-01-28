@@ -39,14 +39,17 @@
 
 ###４　　国、　月、　火、　水、　木、　金、　土、　書
 
-|         |               |                 |
-|:-------:|:--------------|:----------------|
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
+| 漢字    | ひらがな      | traducción      |
+|:-------:|:----------------|:------------------|
+| 国王   | こくおう          |  rey               |
+| 正月   | しょうがつ      |  año nuevo               |
+| 一ヶ月  | いっかげつ  |  durante 1 mes               |
+| 火事        | かじ          |  incendio               |
+| 水道        | すいどう    | grifo                |
+| 現金        | げんきん   | suelto (dinero)                |
+| お土産    | おみやげ  | regalo                |
+| 辞書        | じしょ         | diccionario                |
+|  図書館   | としょかん   | biblioteca                |
 
 
 ###５　　友、　年、　今、　週、　休、　前、　午、　後
@@ -68,12 +71,12 @@
 | 学校        | がっこう         | escuela     |
 | 校長        |  こうちょう      | director de colegio                |
 | 帰国する | きこくする      | regresar a tu país                |
-| 見学        | けんがく        | visita cultural                |
-| 新聞        | しんぶん       | periódico                |
-| 読書        | どくしょ          |                 |
+| 見学        | けんがく        | visita cultural          |
+| 新聞        | しんぶん       | periódico             |
+| 読書        | どくしょ          | lectura                |
 | 読み物    |  よみもの      | cosas que leer                |
 | 食堂        | しょくどう       | comedor                |
-| 食事        | しょくじ          |                 |
+| 食事        | しょくじ          | comida (meal)       |
 | 飲料水    | いんりょうすい | agua potable                |
 | 飲み物    | のみのも       | cosas que beber                |
 | 売買        | ばいばい      | compra-venta                |
