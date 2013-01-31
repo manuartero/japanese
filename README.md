@@ -1,22 +1,22 @@
 ###１　　人、　名、　方、　本、　日、　何、　大、　学
 
-| 漢字    | ひらがな       | traducción      |
-|:--------:|:----------------|:------------------|
-| 大人    |  おとな           | adulto                |
-| 名字    |  みょうじ         | apellido                |
-| 有名な | ゆうめいな    | famoso (adj)                |
-| 方法   |  ほうほう        | forma de leer                |
-| 本       |  ほん              | [cosas alargadas]                |
-| 短曜日 | たんようび    |  cumpleaños               |
-| 明日   |  あした           | mañana                |
-| 何       |  なに              | ¿Qué?               |
-| 大切な | たいせつな   | importante                 |
-| 学ぶ   |  まなぶ           | aprender                |
+| 漢字    | ひらがな       | traducción       |
+|:-------:|:---------------|:-----------------|
+| 大人    | おとな         | adulto           |
+| 名字    | みょうじ       | apellido         |
+| 有名な  | ゆうめいな     | famoso (adj)     |
+| 方法    | ほうほう       | forma de leer    |
+| 本      | ほん           | [cosas alargadas]|
+| 短曜日  | たんようび     | cumpleaños       |
+| 明日    | あした         | mañana           |
+| 何      | なに           | ¿Qué?            |
+| 大切な  | たいせつな     | importante       |
+| 学ぶ    | まなぶ         | aprender         |
 
 ###２　　会、　社、　先、　生、　行、　来、　自、　車
 
-|         |               |                 |
-|:-------:|:--------------|:----------------|
+| 漢字    | ひらがな       | traducción       |
+|:-------:|:---------------|:-----------------|
 |         |               |                 |
 |         |               |                 |
 |         |               |                 |
@@ -39,50 +39,50 @@
 
 ###４　　国、　月、　火、　水、　木、　金、　土、　書
 
-| 漢字    | ひらがな      | traducción      |
-|:-------:|:----------------|:------------------|
-| 国王   | こくおう          |  rey               |
-| 正月   | しょうがつ      |  año nuevo               |
-| 一ヶ月  | いっかげつ  |  durante 1 mes               |
-| 火事        | かじ          |  incendio               |
-| 水道        | すいどう    | grifo                |
-| 現金        | げんきん   | suelto (dinero)                |
-| お土産    | おみやげ  | regalo                |
-| 辞書        | じしょ         | diccionario                |
-|  図書館   | としょかん   | biblioteca                |
+| 漢字    | ひらがな        | traducción      |
+|:-------:|:----------------|:----------------|
+| 国王    | こくおう        | rey             |
+| 正月    | しょうがつ      | año nuevo       |
+| 一ヶ月  | いっかげつ      | durante 1 mes   |
+| 火事    | かじ            | incendio        |
+| 水道    | すいどう        | grifo           |
+| 現金    | げんきん        | dinero suleto   |
+| お土産  | おみやげ        | regalo          |
+| 辞書    | じしょ          | diccionario     |
+| 図書館  | としょかん      | biblioteca      |
 
 
 ###５　　友、　年、　今、　週、　休、　前、　午、　後
 
-| 漢字    | ひらがな      | traducción      |
-|:--------:|:---------------|:-----------------|
-| 友人    | ゆうじん       | amigo (lenguaje formal)                |
-| 親友    | しんゆう       | mejor amigo                |
-| 去年    | きょねん       | año pasado                 |
-| 今年    | ことし           | este año                |
-| 今度    | こんど          | "otro día", "la próxima vez"                |
-| 週末    | しゅうまつ    | fin de semana                |
-| 休日    | きゅうじつ    | día festivo                |
-| 名前    | なまえ          | nombre                 |
-| 正午    | しょうご        | 12 AM                |
-| 最後    | さいご          | último                |
+| 漢字    | ひらがな      | traducción             |
+|:-------:|:--------------|:-----------------------|
+| 友人    | ゆうじん      | amigo (lenguaje formal)|
+| 親友    | しんゆう      | mejor amigo            |
+| 去年    | きょねん      | año pasado             |
+| 今年    | ことし        | este año               |
+| 今度    | こんど        | "otro día", "la próxima vez" |
+| 週末    | しゅうまつ    | fin de semana          |
+| 休日    | きゅうじつ    | día festivo            |
+| 名前    | なまえ        | nombre                 |
+| 正午    | しょうご      | 12 AM                  |
+| 最後    | さいご        | último                 |
 
 ###６　　校、　帰、　見、　聞、　読、　食、　飲、　買
 
-| 漢字    | ひらがな      | traducción      |
-|:--------:|:---------------|:------------------|
-| 学校        | がっこう         | escuela     |
-| 校長        |  こうちょう      | director de colegio                |
-| 帰国する | きこくする      | regresar a tu país                |
-| 見学        | けんがく        | visita cultural          |
-| 新聞        | しんぶん       | periódico             |
-| 読書        | どくしょ          | lectura                |
-| 読み物    |  よみもの      | cosas que leer                |
-| 食堂        | しょくどう       | comedor                |
-| 食事        | しょくじ          | comida (meal)       |
-| 飲料水    | いんりょうすい | agua potable                |
-| 飲み物    | のみのも       | cosas que beber                |
-| 売買        | ばいばい      | compra-venta                |
+| 漢字     | ひらがな      | traducción           |
+|:--------:|:--------------|:---------------------|
+| 学校     | がっこう      | escuela              |
+| 校長     | こうちょう    | director de colegio  |
+| 帰国する | きこくする    | regresar a tu país   |
+| 見学     | けんがく      | visita cultural      |
+| 新聞     | しんぶん      | periódico            |
+| 読書     | どくしょ      | lectura              |
+| 読み物   | よみもの      | cosas que leer       |
+| 食堂     | しょくどう    | comedor              |
+| 食事     | しょくじ      | comida (meal)        |
+| 飲料水   | いんりょうすい| agua potable         |
+| 飲み物   | のみのも      | cosas que beber      |
+| 売買     | ばいばい      | compra-venta         |
 
 
 ###７　　母、　父、　物、　朝、　昼、　夜、　晩、　町
@@ -195,3 +195,13 @@
 | 地中海  | ちちゅうかい  | mar mediterráneo|
 | 天の川  | あまのがわ    | vía láctea      |
 
+###１４　世、　界、　映、　画、　花、　茶、　語、　英
+
+| 漢字    | ひらがな       | traducción       |
+|:-------:|:---------------|:-----------------|
+|         |               |                 |
+|         |               |                 |
+|         |               |                 |
+|         |               |                 |
+|         |               |                 |
+|         |               |                 |
