@@ -8,7 +8,7 @@
 | 方法    | ほうほう       | forma de leer    |
 | 本      | ほん           | [cosas alargadas]|
 | 短曜日  | たんようび     | cumpleaños       |
-| 明日    | あした         | mañana           |
+| 明日    | あした・あす   | mañana           |
 | 何      | なに           | ¿Qué?            |
 | 大切な  | たいせつな     | importante       |
 | 学ぶ    | まなぶ         | aprender         |
@@ -17,12 +17,15 @@
 
 | 漢字    | ひらがな       | traducción       |
 |:-------:|:---------------|:-----------------|
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
+| 会話    | かいわ         | conversación     |
+| 社会    | しゃかい       | la sociedad      |
+| 神社    | じんじゃ       | templo sintoísta |
+| 社長    | しゃちょう     | director         |
+| 先生    | せんせい       | profesor         |
+| 旅行    | りょこう       | viaje            |
+| 将来    | しょうらい     | futuro (próximo) |
+| 未来    | みらい         | futuro (lejano)  |
+| 自転車  | じてんしゃ     | tren             |
 
 
 ###３　　百、　千、　万、　円、　毎、　時、　分、　半
