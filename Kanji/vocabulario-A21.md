@@ -8,7 +8,6 @@
 | 方法    | ほうほう       | forma de leer    |
 | 本      | ほん           | [cosas alargadas]|
 | 短曜日  | たんようび     | cumpleaños       |
-| 明日    | あした・あす   | mañana           |
 | 何      | なに           | ¿Qué?            |
 | 大切な  | たいせつな     | importante       |
 | 学ぶ    | まなぶ         | aprender         |
@@ -205,19 +204,19 @@
 
 ###１４　世、　界、　映、　画、　花、　茶、　語、　英
 
-| 漢字     | ひらがな         | traducción       |
-|:-------:|:---------------|:-----------------|
-| 世の中    | よのなか         |  en el mundo               |
-| 世界     | せかい           |  mundo               |
-| 画家     | がか            | pintor                |
-| 動画     | どうが           | video                |
-| 映画     | えいが           | película                |
-| 映す     | うつす           |  reflejar               |
-| 生け花    | いけばな         |  arreglo floral               |
-| 茶道     | さどう           |  ceremonía del té               |
-| 語る     | かたる           |  narrar               |
-| 言語     | げんご           | idioma                |
-| 英雄     | えいゆう          | héroe                |
+| 漢字     | ひらがな      | traducción        |
+|:--------:|:--------------|:------------------|
+| 世の中   | よのなか      |  en el mundo      |
+| 世界     | せかい        |  mundo            |
+| 画家     | がか          |  pintor           |
+| 動画     | どうが        |  video            |
+| 映画     | えいが        |  película         |
+| 映す     | うつす        |  reflejar         |
+| 生け花   | いけばな      |  arreglo floral   |
+| 茶道     | さどう        |  ceremonía del té |
+| 語る     | かたる        |  narrar           |
+| 言語     | げんご        |  idioma           |
+| 英雄     | えいゆう      |  héroe            |
 
 
 ###１５　体、　足、　口、　顔、　耳、　目、　立、　知
@@ -234,33 +233,40 @@
 
 ###１６　住、　思、　使、　作、　品、　長、　明、　肉
 
-| 漢字    | ひらがな       | traducción       |
-|:-------:|:---------------|:-----------------|
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
-|         |               |                 |
+| 漢字     | ひらがな       | traducción           |
+|:--------:|:---------------|:---------------------|
+| 住む     | すむ           | vivir                |
+| 住民     | じゅうみん     | vecino               |
+| 住所     | じゅうしょ     | dirección de casa    |
+| 思い出す | おもいだす     | recordar             |
+| 使う     | つかう         | usar                 |
+| 使用する | しようする     | utilizar             |
+| 作る     | つくる         | fabricar             |
+| 作品     | さくひん       | obra de arte         |
+| 製品     | せいひん       | productos frabicados |
+| 品物     | しなもの       | bienes / productos   |
+| 長い     | ながい         | largo                |
+| 明日     | あした・あす   | mañana               |
+| 鳥肉     | とりにく       | carne de pollo       |
 
 
 ###１７　問、　答、　心、　配、　子、　売、　場、　字
 
-| 漢字     | ひらがな       | traducción        |
-|:-------:|:------------|:-------------------|
-| 問う      | とう         | preguntar          |
-| 問題     | もんだい      | pregunta / problema |
-| 答える    | こたえる       | responder          |
-| 解答     | かいとう       | respuesta          |
-| 中心     | ちゅうしん      | centro de algo     |
-| 心配する  | しんぱいする    | preocuparse        |
-| 配る     | くばる        | repartir            |
-| 親子     | おやこ        | padre e hijo       |
-| 売店     | ばいてん      | kiosko / puesto    |
-| 市場     | いちば       | mercado            |
-| 工場     | こうじょう      | fábrica (grande)   |
-| 文字     | もじ         | carácter           |
-| 顔文字   | かおもじ      | emoticono           |
+| 漢字     | ひらがな     | traducción          |
+|:--------:|:-------------|:--------------------|
+| 問う     | とう         | preguntar           |
+| 問題     | もんだい     | pregunta / problema |
+| 答える   | こたえる     | responder           |
+| 解答     | かいとう     | respuesta           |
+| 中心     | ちゅうしん   | centro de algo      |
+| 心配する | しんぱいする | preocuparse         |
+| 配る     | くばる       | repartir            |
+| 親子     | おやこ       | padre e hijo        |
+| 売店     | ばいてん     | kiosko / puesto     |
+| 市場     | いちば       | mercado             |
+| 工場     | こうじょう   | fábrica (grande)    |
+| 文字     | もじ         | carácter            |
+| 顔文字   | かおもじ     | emoticono           |
 
 
 ###１８　漢、　
