@@ -2,8 +2,7 @@ Formas verbales
 ===============
 
 
-Forma potencial ``` Vられる ```
------------------------------
+### Forma potencial ``` Vられる ```
 
 |Grupo I 	| {え}       	|
 |:----------|:--------------|
@@ -25,8 +24,7 @@ Forma potencial ``` Vられる ```
 |   |   |
 
 
-Forma　Let's go ``` Vよう ```
---------------------------
+### Forma　Let's go ``` Vよう ```
 
 |Grupo I 	| {お}　う       	|
 |:----------|:--------------|
@@ -47,48 +45,44 @@ Forma　Let's go ``` Vよう ```
 |   |   |
 |   |   |
 
+
 ***
+
 
 Estructuras gramaticales
 ========================
 
 
-Continuar la conversación　
--------------------------
+### Continuar la conversación　
 
 > んです
 
 
-Pedir algo
-----------
+### Pedir algo
 
 > ```　Vて　``` ください　
 > ```　Vて　``` いただけませんか
 
 
-Pedir consejo
--------------
+### Pedir consejo
 
 > ```　Vた　```　ら　いいです
 
 
-Expresar capacidad: puedo / sé
-------------------------------
+### Expresar capacidad: puedo / sé
 
 > ___が___　```られる```
 
 
-Hacer una acción necesaria => hacer un preparativo
---------------------------------------------------
+### Hacer una acción necesaria => hacer un preparativo
 
-> ```Vて```　おきます
+> ``` Vて ```　おきます
 
-Compraré los billetes  antes del viaje
+Compraré los billetes  antes del viaje.
 旅行の前に　切符を　買っておきます。
 
 
-Pedir a alguien que haga una acción (en un futuro cercano)
-----------------------------------------------------------
+### Pedir a alguien que haga una acción (en un futuro cercano)
 
 > ``` Vて ```　おいて　ください
 
@@ -96,13 +90,13 @@ Deja las sillas tal y como están
 いすは　そのままに　して　おいて　ください
 
 
-Tengo pensado hacer algo
-------------------------
+### Tengo pensado hacer algo
 
 > ``` Vよう ```　と　思っています。
 
 
 ***
+
 
 Partículas
 ==========
