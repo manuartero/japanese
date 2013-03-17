@@ -183,19 +183,19 @@
 ###１３　入　出　広　止　始　開　海　川
 
 | 漢字    | ひらがな      | traducción      |
-|:-------:|:--------------|:----------------|
+|:-------:|:------------|:----------------|
 | 入れる  | いれる        | meter           |
-| 出す    | だす          | sacar           |
-| 入る    | はいる        | entrar          |
-| 出る    | でる          | salir           |
+| 出す    | だす          | sacar          |
+| 入る    | はいる        | entrar         |
+| 出る    | でる          | salir          |
 | 輸入する  | ゆにゅう    | importar        |
 | 輸出する  | ゆしゅつ    | exportar        |
 | 広告    | こうこく      | anuncio         |
 | 中止    | ちゅうし      | cancelación     |
-| 始まる  | はじまる      | comenzar        |
+| 始まる  | はじまる      | comenzar (INT)  |
 | 始める  | はじめる      | comenzar        |
-| 開く    | あく          | abrir           |
-| 開ける  | あける        | abrir           |
+| 開く    | あく          | abrir          |
+| 開ける  | あける        | abrir  (INT)   |
 | 開始する  | かいしする  | empezar (INT)   |
 | 開く    | ひらく        | inaugurar       |
 | 地中海  | ちちゅうかい  | mar mediterráneo|
