@@ -1,30 +1,30 @@
 ###１　　人　名　方　本　日　何　大　学
 
-| 漢字    | ひらがな       | traducción       |
-|:-------:|:---------------|:-----------------|
-| 大人    | おとな         | adulto           |
-| 名字    | みょうじ       | apellido         |
-| 有名な  | ゆうめいな     | famoso (adj)     |
-| 方法    | ほうほう       | forma de leer    |
-| 本      | ほん           | [cosas alargadas]|
-| 短曜日  | たんようび     | cumpleaños       |
-| 何      | なに           | ¿Qué?            |
-| 大切な  | たいせつな     | importante       |
-| 学ぶ    | まなぶ         | aprender         |
+|	漢字 	| 	ひらがな		| 	traducción			|
+|:-----:|:------------|:------------------|
+| 大人 	| おとな				| adulto						|
+| 名字		| みょうじ			| apellido					|
+| 有名な	| ゆうめいな		| famoso (adj)			|
+| 方法		| ほうほう			| forma de leer			|
+| 本			| ほん　				| [cosas alargadas]	|
+| 誕生日	| たんじょうび 	| cumpleaños				|
+| 何			| なに					| ¿Qué?							|
+| 大切な	| たいせつな		| importante				|
+| 学ぶ		| まなぶ				| aprender					|
 
 ###２　　会　社　先　生　行　来　自　車
 
-| 漢字    | ひらがな       | traducción       |
-|:-------:|:---------------|:-----------------|
-| 会話    | かいわ         | conversación     |
-| 社会    | しゃかい       | la sociedad      |
-| 神社    | じんじゃ       | templo sintoísta |
-| 社長    | しゃちょう     | director         |
-| 先生    | せんせい       | profesor         |
-| 旅行    | りょこう       | viaje            |
-| 将来    | しょうらい     | futuro (próximo) |
-| 未来    | みらい         | futuro (lejano)  |
-| 自転車  | じてんしゃ     | tren             |
+| 漢字		| 	ひらがな  	| 	traducción			|
+|:-----:|:------------|:------------------|
+| 会話		| かいわ				| conversación			|
+| 社会		| しゃかい			| la sociedad				|
+| 神社		| じんじゃ			| templo sintoísta	|
+| 社長		| しゃちょう		| director					|
+| 先生		| せんせい			| profesor					|
+| 旅行		| りょこう			| viaje							|
+| 将来		| しょうらい		| futuro (próximo)	|
+| 未来		| みらい				| futuro (lejano)		|
+| 自転車	| じてんしゃ		| tren							|
 
 
 ###３　　百　千　万　円　毎　時　分　半
@@ -294,6 +294,7 @@
 | 持つ   |  もつ       | llevar algo            |
 | 金持ち  | かねもち    | rico                   |
 
+
 ###１９　電　話　音　楽　歌　度　教　習
 
 | 漢字   |  ひらがな    | traducción       	       |
@@ -312,17 +313,36 @@
 
 ###２０　貸　借　送　強　勉　旅　室　登
 
-| 漢字    |  ひらがな    | traducción       	    |
-|:------:|:------------|:-----------------------|
-| 貸す    |  かす        |  prestar               |
-| 借りる  |  かりる      |   recibir prestado     |
-| 借金    |  しゃっきん   |  recibir dinero prestado |
-| 送る    |  おくる      |  enviar               |
-| 勉強    |  べんきょう   |  estudiar             |
-| 勉める  |  つとめる     |  esforzarse           |
-| 旅する  |  たびする     |  viajar               |
-| 旅行    |  りょこう     |  viaje                |
-| 会議室  |  かいぎしつ    |  aula                 |
-| 登る    |  のぼる       |  escalar              |
-| 外国人登 |  がいこくじんとう |  DNI de residente  |
+| 	漢字		|  	ひらがな 	  	| traducción							|
+|:-------:|:--------------|:------------------------|
+| 貸す			|	かす 					|	prestar									|
+| 借りる		|	かりる					|	recibir prestado				|
+| 借金			|	しゃっきん			|	recibir dinero prestado	|
+| 送る			|	おくる					|	enviar									|
+| 勉強			|	べんきょう			|	estudiar								|
+| 勉める		|	つとめる				|	esforzarse							|
+| 旅する		|	たびする				|	viajar									|
+| 旅行			|	りょこう				|	viaje										|
+| 会議室		|	かいぎしつ			|	aula										|
+| 登る			|	のぼる					|	escalar									|
+| 外国人登	|	がいこくじんとう |	DNI de residente				|
+
+
+###２１　不 同　言　意　事　仕　病　院
+
+| 	漢字		|  	ひらがな			| traducción							|
+|:-------:|:--------------|:------------------------|
+|	不便			|	ふべん					|	no práctico (adj)				|
+|	不幸			|	ふこう					|	infeliz									|
+|	同じ			|	おなじ					|	igual										|
+|	同時			|	どうじ					|	simultáneo							|
+|	言語			|	げんご					|	lengua - idioma					|
+|	意見			|	いけん					|	opinión									|
+|	意味			|	いみ						|	significado							|
+|	不意			|	ふい						|	repentino								|
+|	事務所		|	じむしょ				|	oficina									|
+|	仕事			|	しごと					|	el trabajo							|
+|	病気			|	びょうき				|	enfermo									|
+|	病人			|	びょうにん			|	paciente								|
+|	病院			|	びょういん			|	hospital								|
 
