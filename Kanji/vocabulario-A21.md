@@ -1,45 +1,45 @@
 ###１　　人　名　方　本　日　何　大　学
 
 |	漢字 	| 	ひらがな		| 	traducción			|
-|:-----:|:------------|:------------------|
-| 大人 	| おとな				| adulto						|
-| 名字		| みょうじ			| apellido					|
-| 有名な	| ゆうめいな		| famoso (adj)			|
-| 方法		| ほうほう			| forma de leer			|
-| 本			| ほん　				| [cosas alargadas]	|
-| 誕生日	| たんじょうび 	| cumpleaños				|
-| 何			| なに					| ¿Qué?							|
-| 大切な	| たいせつな		| importante				|
-| 学ぶ		| まなぶ				| aprender					|
+|:---------:|:--------------|:----------------------|
+| 大人 		| おとな			| adulto				|
+| 名字		| みょうじ		| apellido				|
+| 有名な		| ゆうめいな		| famoso (adj)			|
+| 方法		| ほうほう		| forma de leer			|
+| 本			| ほん　			| [cosas alargadas]		|
+| 誕生日		| たんじょうび 	| cumpleaños			|
+| 何			| なに			| ¿Qué?					|
+| 大切な		| たいせつな		| importante			|
+| 学ぶ		| まなぶ			| aprender				|
 
 ###２　　会　社　先　生　行　来　自　車
 
 | 漢字		| 	ひらがな  	| 	traducción			|
-|:-----:|:------------|:------------------|
-| 会話		| かいわ				| conversación			|
-| 社会		| しゃかい			| la sociedad				|
-| 神社		| じんじゃ			| templo sintoísta	|
-| 社長		| しゃちょう		| director					|
-| 先生		| せんせい			| profesor					|
-| 旅行		| りょこう			| viaje							|
-| 将来		| しょうらい		| futuro (próximo)	|
-| 未来		| みらい				| futuro (lejano)		|
-| 自転車	| じてんしゃ		| tren							|
+|:---------:|:--------------|:----------------------|
+| 会話		| かいわ			| conversación			|
+| 社会		| しゃかい		| la sociedad			|
+| 神社		| じんじゃ		| templo sintoísta		|
+| 社長		| しゃちょう		| director				|
+| 先生		| せんせい		| profesor				|
+| 旅行		| りょこう		| viaje					|
+| 将来		| しょうらい		| futuro (próximo)		|
+| 未来		| みらい			| futuro (lejano)		|
+| 自転車		| じてんしゃ		| tren					|
 
 
 ###３　　百　千　万　円　毎　時　分　半
 
-| 漢字      | ひらがな            | traducción  |
-|:---------:|:--------------------|:------------|
-| 百        | ひゃく              | 100         |
-| 千        | せん                | 10.000      |
-| 万年筆    | まんねんひつ        | pluma       |
-| 円い      | まるい              | redondo     |
-| 毎年      | まいとし・まいねん  | cada año    |
-| 毎月      | まいげつ・まいつき  | cada mes    |
-| 時計      | とけい              | reloj       |
-| 分かる    | わかる              | entender    |
-| 半ば      | なかば              | la mitad    |
+| 漢字 		| ひらがな 			| traducción  |
+|:---------:|:------------------|:------------|
+| 百  		| ひゃく				| 100         |
+| 千    		| せん 				| 10.000      |
+| 万年筆  	| まんねんひつ 		| pluma       |
+| 円い 		| まるい				| redondo     |
+| 毎年 		| まいとし・まいねん 	| cada año    |
+| 毎月 		| まいげつ・まいつき 	| cada mes    |
+| 時計 		| とけい 			| reloj       |
+| 分かる 	| わかる  			| entender    |
+| 半ば 		| なかば  			| la mitad    |
 
 
 ###４　　国　月　火　水　木　金　土　書
@@ -297,52 +297,71 @@
 
 ###１９　電　話　音　楽　歌　度　教　習
 
-| 漢字   |  ひらがな    | traducción       	       |
-|:-----:|:-----------|:----------------------------|
-| 電話   |  でんわ     |  teléfono                   |
-| 話    |  はなし      |  charla, cuento             |
-| 音楽   |  おんがく    |  música                     |
-| 楽な   |  らくな     |   cómodo                    |
-| 歌手   |  かしゅ     |   cantante                  |
-| 度    |  ど         |   [veces], [ºC]             |
-| 教師   |  きょうし    |   profesor (profesión)      |
-| 習う   |  ならう      |   aprender                 |
-| 学習する|  がくしゅうする  |  estudiar                |
-| 練習   |  れんしゅう   |    ejercicios, prácticas   |
+| 漢字 	|  ひらがな    	| traducción 				|
+|:-----:|:--------------|:--------------------------|
+| 電話 	| でんわ 		| teléfono 					|
+| 話 	| はなし			| charla, cuento 			|
+| 音楽 	| おんがく 		| música 					|
+| 楽な 	| らくな 		| cómodo 					|
+| 歌手 	| かしゅ 		| cantante  				|
+| 度 	| ど 			| [veces], [ºC] 			|
+| 教師 	| きょうし 		| profesor (profesión)  	|
+| 習う	| ならう 		| aprender 					|
+| 学習する| がくしゅうする 	| estudiar 					|
+| 練習 	| れんしゅう 		| ejercicios, prácticas 	|
 
 
 ###２０　貸　借　送　強　勉　旅　室　登
 
-| 	漢字		|  	ひらがな 	  	| traducción							|
-|:-------:|:--------------|:------------------------|
-| 貸す			|	かす 					|	prestar									|
-| 借りる		|	かりる					|	recibir prestado				|
-| 借金			|	しゃっきん			|	recibir dinero prestado	|
-| 送る			|	おくる					|	enviar									|
-| 勉強			|	べんきょう			|	estudiar								|
-| 勉める		|	つとめる				|	esforzarse							|
-| 旅する		|	たびする				|	viajar									|
-| 旅行			|	りょこう				|	viaje										|
-| 会議室		|	かいぎしつ			|	aula										|
-| 登る			|	のぼる					|	escalar									|
-| 外国人登	|	がいこくじんとう |	DNI de residente				|
+| 	漢字		|  	ひらがな 	  	| traducción				|
+|:---------:|:--------------|:--------------------------|
+| 貸す		| かす			| prestar					|
+| 借りる		| かりる			| recibir prestado			|
+| 借金		| しゃっきん		| recibir dinero prestado	|
+| 送る		| おくる			| enviar					|
+| 勉強		| べんきょう		| estudiar					|
+| 勉める		| つとめる		| esforzarse				|
+| 旅する		| たびする		| viajar					|
+| 旅行		| りょこう		| viaje						|
+| 会議室		| かいぎしつ		| aula						|
+| 登る		| のぼる			| escalar					|
+| 外国人登	| がいこくじんとう	| DNI de residente			|
 
 
 ###２１　不 同　言　意　事　仕　病　院
 
-| 	漢字		|  	ひらがな			| traducción							|
-|:-------:|:--------------|:------------------------|
-|	不便			|	ふべん					|	no práctico (adj)				|
-|	不幸			|	ふこう					|	infeliz									|
-|	同じ			|	おなじ					|	igual										|
-|	同時			|	どうじ					|	simultáneo							|
-|	言語			|	げんご					|	lengua - idioma					|
-|	意見			|	いけん					|	opinión									|
-|	意味			|	いみ						|	significado							|
-|	不意			|	ふい						|	repentino								|
-|	事務所		|	じむしょ				|	oficina									|
-|	仕事			|	しごと					|	el trabajo							|
-|	病気			|	びょうき				|	enfermo									|
-|	病人			|	びょうにん			|	paciente								|
-|	病院			|	びょういん			|	hospital								|
+| 漢字 	|  	ひらがな		| traducción 			|
+|:-----:|:--------------|:----------------------|
+| 不便	| ふべん			|	no práctico (adj) 	|
+| 不幸	| ふこう			|	infeliz				|
+| 同じ	| おなじ			|	igual				|
+| 同時	| どうじ			|	simultáneo			|
+| 言語	| げんご			|	lengua - idioma		|
+| 意見	| いけん			|	opinión				|
+| 意味	| いみ			|	significado			|
+| 不意	| ふい			|	repentino			|
+| 事務所	| じむしょ		|	oficina				|
+| 仕事	| しごと			|	el trabajo			|
+| 病気	| びょうき		|	enfermo				|
+| 病人	| びょうにん		|	paciente			|
+| 病院	| びょういん		|	hospital			|
+
+###２2　医　者　堂　屋　用　有　店　民
+
+| 	漢字		|  	ひらがな 	  	| traducción				|
+|:---------:|:--------------|:--------------------------|
+| 医者		| いしゃ			| médico					|
+| 医学		| いがく			| la medicina				|
+| 新聞記者	| しんぶんきしゃ	| redactor (periodista)		|
+| 若者		| わかもの		| los jóvenes				|
+| お堂		| おどう			| santuario					|
+| 食堂		| しょくどう		| comedor					|
+| 本屋		| ほんや			| librería					|
+| 部屋		| へや			| cuarto / habitación		|
+| 用事		| ようじ			| asunto / tarea			|
+| 有名な		| ゆうめいな		| famoso (adj)				|
+| 書店		| しょてん		| librería (grande)			|
+| 国民		| こくみん		| habitantes				|
+| 民族		| みんぞく		| étnia						|
+
 
