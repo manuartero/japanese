@@ -44,17 +44,17 @@
 
 ###４　　国　月　火　水　木　金　土　書
 
-| 漢字    | ひらがな        | traducción      |
-|:-------:|:----------------|:----------------|
-| 国王    | こくおう        | rey             |
-| 正月    | しょうがつ      | año nuevo       |
-| 一ヶ月  | いっかげつ      | durante 1 mes   |
-| 火事    | かじ            | incendio        |
-| 水道    | すいどう        | grifo           |
-| 現金    | げんきん        | dinero suleto   |
-| お土産  | おみやげ        | regalo          |
-| 辞書    | じしょ          | diccionario     |
-| 図書館  | としょかん      | biblioteca      |
+| 漢字 	| ひらがな 	| traducción      |
+|:-----:|:----------|:----------------|
+| 国王 	| こくおう 	| rey             |
+| 正月  	| しょうがつ 	| año nuevo       |
+| 一ヶ月 | いっかげつ 	| durante 1 mes   |
+| 火事 	| かじ 		| incendio        |
+| 水道  	| すいどう 	| grifo           |
+| 現金	| げんきん 	| dinero suleto   |
+| お土産	| おみやげ 	| regalo          |
+| 辞書	| じしょ 	| diccionario     |
+| 図書館 | としょかん	| biblioteca      |
 
 
 ###５　　友　年　今　週　休　前　午　後
@@ -238,61 +238,61 @@
 
 ###１６　住　思　使　作　品　長　明　肉
 
-| 漢字     | ひらがな       | traducción           |
-|:--------:|:---------------|:---------------------|
-| 住む     | すむ           | vivir                |
-| 住民     | じゅうみん     | vecino               |
-| 住所     | じゅうしょ     | dirección de casa    |
-| 思い出す | おもいだす     | recordar             |
-| 使う     | つかう         | usar                 |
-| 使用する | しようする     | utilizar             |
-| 作る     | つくる         | fabricar             |
-| 作品     | さくひん       | obra de arte         |
-| 製品     | せいひん       | productos frabicados |
-| 品物     | しなもの       | bienes / productos   |
-| 長い     | ながい         | largo                |
-| 明日     | あした・あす   | mañana               |
-| 鳥肉     | とりにく       | carne de pollo       |
+| 漢字 		| ひらがな 		| traducción           |
+|:---------:|:--------------|:---------------------|
+| 住む 		| すむ 			| vivir                |
+| 住民 		| じゅうみん 		| vecino               |
+| 住所 		| じゅうしょ 		| dirección de casa    |
+| 思い出す 	| おもいだす 		| recordar             |
+| 使う 		| つかう 		| usar                 |
+| 使用する 	| しようする 		| utilizar             |
+| 作る 		| つくる 		| fabricar             |
+| 作品 		| さくひん 		| obra de arte         |
+| 製品 		| せいひん 		| productos frabicados |
+| 品物 		| しなもの 		| bienes / productos   |
+| 長い 		| ながい			| largo                |
+| 明日 		| あした・あす  	| mañana               |
+| 鳥肉 		| とりにく 		| carne de pollo       |
 
 
 ###１７　問　答　心　配　子　売　場　字
 
-| 漢字     | ひらがな     | traducción          |
-|:--------:|:-------------|:--------------------|
-| 問う     | とう         | preguntar           |
-| 問題     | もんだい     | pregunta / problema |
-| 答える   | こたえる     | responder           |
-| 解答     | かいとう     | respuesta           |
-| 中心     | ちゅうしん   | centro de algo      |
-| 心配する | しんぱいする | preocuparse         |
-| 配る     | くばる       | repartir            |
-| 親子     | おやこ       | padre e hijo        |
-| 売店     | ばいてん     | kiosko / puesto     |
-| 市場     | いちば       | mercado             |
-| 工場     | こうじょう   | fábrica (grande)    |
-| 文字     | もじ         | carácter            |
-| 顔文字   | かおもじ     | emoticono           |
+| 漢字 		| ひらがな 		| traducción          |
+|:---------:|:--------------|:--------------------|
+| 問う 		| とう 			| preguntar           |
+| 問題  		| もんだい 		| pregunta / problema |
+| 答える 	| こたえる 		| responder           |
+| 解答 		| かいとう 		| respuesta           |
+| 中心 		| ちゅうしん 		| centro de algo      |
+| 心配する 	| しんぱいする 	| preocuparse         |
+| 配る 		| くばる 		| repartir            |
+| 親子 		| おやこ 		| padre e hijo        |
+| 売店 		| ばいてん 		| kiosko / puesto     |
+| 市場 		| いちば 		| mercado             |
+| 工場  		| こうじょう 		| fábrica (grande)    |
+| 文字 		| もじ 			| carácter            |
+| 顔文字 	| かおもじ 		| emoticono           |
 
 
 ###１８　漢　料　理　主　着　新　古　持　
 
-| 漢字   |  ひらがな    | traducción       	   |
-|:------:|:-----------|:-----------------------|
-| 漢字   |  かんじ      | Kanji                  |
-| 料理   |  りょうり    | cocina (plato)         |
-| 料金   |  りょうきん  | tasa (precio)          |
-| 無理   |  むり       | imposible              |
-| 主     |  おも       | principal              |
-| 主人   |  しゅじん    | marido                 |
-| 着く   |  つく       | llegar                 |
-| 着る   |  きる       | llevar puesto          |
-| 上着   |  うわぎ     | ropa (encima cintura)   |
-| 下着   |  したぎ     | ropa interior           |
-| 到着   |  とうちゃく  | "arrives" (aeropuerto) |
-| 新聞   |  しんぶん    | periódico              |
-| 中古   |  ちゅうこ    | 2ª mano                |
-| 持つ   |  もつ       | llevar algo            |
-| 金持ち  | かねもち    | rico                   |
+| 漢字 	| ひらがな 	| traducción 			|
+|:-----:|:----------|:----------------------|
+| 漢字 	| かんじ 	| Kanji 				|
+| 料理 	| りょうり 	| cocina (plato) 		|
+| 料金 	| りょうきん 	| tasa (precio) 		|
+| 無理 	| むり 		| imposible 			|
+| 主 	| おも 		| principal 			|
+| 主人 	| しゅじん 	| marido 				|
+| 着く 	| つく 		| llegar 				|
+| 着る 	| きる 		| llevar puesto  		|
+| 上着 	| うわぎ 	| ropa (encima cintura) |
+| 下着 	| したぎ 	| ropa interior 		|
+| 到着 	| とうちゃく 	| "arrives" (aeropuerto)|
+| 新聞 	| しんぶん 	| periódico 			|
+| 中古 	| ちゅうこ 	| 2ª mano 				|
+| 持つ 	| もつ  		| llevar algo 			|
+| 金持ち | かねもち	| rico 					|
 
 
 ###１９　電　話　音　楽　歌　度　教　習
@@ -346,7 +346,8 @@
 | 病人	| びょうにん		|	paciente			|
 | 病院	| びょういん		|	hospital			|
 
-###２2　医　者　堂　屋　用　有　店　民
+
+###２２　医　者　堂　屋　用　有　店　民
 
 | 	漢字		|  	ひらがな 	  	| traducción				|
 |:---------:|:--------------|:--------------------------|
@@ -363,5 +364,30 @@
 | 書店		| しょてん		| librería (grande)			|
 | 国民		| こくみん		| habitantes				|
 | 民族		| みんぞく		| étnia						|
+
+
+###２３　正　銀　図　館　道　動　建　特
+
+| 	漢字		|  	ひらがな 	  	| traducción				|
+|:---------:|:--------------|:--------------------------|
+| 正しい		| ただしい		| correcto					|
+| 正直		| しょうじき		| honsto					|
+| 正月		| しょうがつ		| año nuevo					|
+| 銀行		| ぎんこう		| banco						|
+| 図る		| はたる			| planificar				|
+| 地図		| ちず			| mapa						|
+| 図書館		| としょかん		| biblioteca				|
+| 旅館		| りょかん		| hotel japonés				|
+| 書道		| しょどう		| caligrafía				|
+| 動く		| うごく			| moverse					|
+| 動物		| どうぶつ		| animales					|
+| 自動車		| じどうしゃ		| automóvil					|
+| 建てる		| たてる			| construir					|
+| 建物		| たてもの		| edificio					|
+| 特急		| とっきゅう		| tren rápido				|
+| 特に		| とくに			| sobre todo / especialmente|
+
+
+
 
 
