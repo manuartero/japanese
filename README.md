@@ -1,23 +1,9 @@
-作文 - Redacciones 
+Índice
 ------------------
 
-1. Redaccion febrero
-2. Haiku
+- [A2-1](https://github.com/manutero/Japanese/tree/master/A2-1) Material de 3º curso de japonés
+- [A2-2](https://github.com/manutero/Japanese/tree/master/A2-2) Material de 4º curso de japonés
+- [Kanken](https://github.com/manutero/Japanese/tree/master/Kanken) Listas en formato .odt y .pdf de kanjis para el examen del *Kanken*
 
+> マヌ
 
-漢字 - Kanji
------------------
-
-1. K8
-2. vocabulario-A21
-
-
-練習 - Ejercicios
-------------------
-
-1. L29
-2. L30
-3. L31
-4. L32
-5. L33
-6. L34
