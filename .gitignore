@@ -1,2 +1,9 @@
+# Mac files
 *.DS_Store
+
+# Odt temporal files
 *.odt#
+
+# Finder icon folder
+Icon^M^M
+
