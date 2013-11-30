@@ -58,3 +58,4 @@
 | ocasionalmente		| tamani 					| たまに 					|
 | por fin 					| toutou 					| とうとう 				|
 | soon 							| mousugu					| もうすぐ 				|
+| dándolo todo      | nesshin (ni)		| ねっしん(に) 		|

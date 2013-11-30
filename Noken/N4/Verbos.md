@@ -119,6 +119,8 @@
 | preparar (lección) 		| yoshuu (suru) 	| 予習 			| よしゅう (する)	|
 | reservar 							| yoyaku (suru)		| --- 			| よやく (する)		|
 | separarse 						| wakareru  			| --- 			| わかれる				|
-| hervir 								| wakasu 					| 沸かす 		| わかす 				|
+| hervir 								| wakasu 					| 沸かす 		| わかす 				    |
 | hervirse 							| waku 						| 沸く 			| わく 					|
-| reír, sonreir 				| warau 					| 笑う 			| わらう 				|
+| reír, sonreir 				| warau 					| 笑う 			| わらう 				  |
+| utilizar              | riyou (suru)    | 利用       | りよう(する)    |
+| avisar                | rennraku (suru) | 連絡 する   | れんらく(する)  |
