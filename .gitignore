@@ -1,3 +1,7 @@
+# Sublime files
+*.sublime-project
+*.sublime-workspace
+
 # Mac files
 *.DS_Store
 
@@ -5,4 +9,4 @@
 *.odt#
 
 # Finder icon folder
-Icon
+Icon
