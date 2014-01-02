@@ -109,4 +109,40 @@ Por hacer
 
 ### 7
 
+| 漢字　		|　ひらがな　		|　significado 							|
+|:------ 	|:--------		|:-----------								|
+| 覚える　	| おぼえる 			| memorizar 								|
+| 目が覚める| めがさめる 		| despertar									|
+| 自覚する　| じかくする 		| darse cuenta de algo			|
+| 忘れる　	| わすれる 			| olvidar										|
+| 忘れっぽい| わすれっぽい 	| olvidadizo								|
+| 忘年会　	| ぼうねんかい 	| cena de empresa 					|
+| 安全　		| あんぜん 			| seguridad									|
+| 全国　		| ぜんこく 			| todo el país							|
+| 完全な　	| かんぜんな 		| perfecto 									|
+| 全部　		| ぜんぶ 				| todo											|
+| 一部　		| いちぶ 				| una parte									|
+| 大部分　	| だいぶぶん 		| la mayor parte						|
+| 部屋　		| へや 				| habitación								|
+| 消す　		| けす 				| apagar (turn off)					|
+| 消える　	| きえる 				| apagarse									|
+| 取り消す　| とりけす 			| cancelar									|
+| 消防士　	| しょうぼうし 	| bombero										|
+| 晩　 		| ばん 				| noche											|
+| 晩年　		| ばんねん 			| últimos años de vida			|
+| 暑い　		| あつい 				| calor (temperatura)				|
+| 避暑地　	| ひしょち 			| lugar de veraneo					|
+| 寒い　		| さむい 				| frío (temperatura)				|
+| 寒気　		| さむけ 				| escalofrío								|
+| 寒風　		| かんぷう 			| viento frío								|
+| 重い　		| おもい 				| pesado										|
+| 重ねる　	| かさねる 			| apilar										|
+| 体重　		| たいじゅう 		| peso de un cuerpo					|
+| 重要な　	| じゅうような 	| importante								|
+| 軽い　		| かるい 				| ligero										|
+| 手軽な　	| てがるな 			| sencillo									|
+| 軽蔑　		| けいべつ 			| desprecio									|
+
+### 8
+
 .
