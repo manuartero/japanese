@@ -145,4 +145,37 @@ Por hacer
 
 ### 8
 
-.
+### 9
+
+| 漢字　		|　ひらがな　		|　significado 							|
+|:------ 	|:--------		|:-----------								|
+| 夫　 		|おっと 				|	mi marido									|
+| 夫婦　		|ふうふ 				|	matrimonio								|
+| 大丈夫　	|だいじょうぶ 	|	ok												|
+| 夫妻　		|ふさい 				|	marido y mujer						|
+| 妻　 		|つま 					|	mi mujer									|
+| 主に　		|おもに 				|	principalmente 						|
+| ご主人　	|ごしゅじん 		|	tu marido									|
+| 主語　		|しゅご 				|	sujeto de oración					|
+| 主食　		|しゅしょく 		|	comida principal					|
+| 両親　		|りょうしん 		|	ambos padres							|
+| 両手　		|りょうて 			|	las dos manos							|
+| 両方　		|りょうほう 		|	ambos lados, ambas partes	|
+| 両側　		|りょうがわ 		|	ambos lados								|
+| 両立　		|りょうりつ 		|	compatibilidad						|
+| 彼氏　		|かれし 				|	novio / él								|
+| 氏名　		|しめい 				|	nombre + apellidos				|
+| 関係　		|かんけい 			|	relación (conexión)				|
+| 関心　		|かんしん 			|	interés										|
+| 玄関　		|げんかん 			|	vestíbulo									|
+| 税関　		|ぜいかん 			|	aduana										|
+| 係　 		|かかり 				|	persona al cargo					|
+| 係員　 	|かかりいん 		|	encargado									|
+| 人間関係	|にんげんかんけい|	relaciones humanas				|
+| その他　	|そのた/そのほか|	otro/otra									|
+| 他人　		|たにん 				|	desconocido								|
+| 男性　		|だんせい 			|	male											|
+| 女性　		|じょせい 			|	female										|
+| 性別　		|せいべつ 			|	sexo (gender)							|
+| 性格　		|せいかく 			|	personalidad							|
+| 相性　		|あいしょう(がいい)	|	congeniar con alguien			|
