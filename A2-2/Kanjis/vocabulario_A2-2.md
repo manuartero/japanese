@@ -179,3 +179,37 @@ Por hacer
 | 性別　		|せいべつ 			|	sexo (gender)							|
 | 性格　		|せいかく 			|	personalidad							|
 | 相性　		|あいしょう(がいい)	|	congeniar con alguien			|
+
+### 10
+
+### 11
+
+| 漢字　   		|　ひらがな　   	|　significado             		|
+|:------  	|:--------    |:-----------             		|
+| 反対する		| はんたいする 	| oponerse										|
+| 反省　 			| はんせい			| reflexión personal 					|
+| 反る　			| そる					| doblar, arquear (to bend) 	|
+| 反応　			| はんのう			| reacción 										|
+| 困る　			| こまる				| tener problemas 						|
+| 困難な　		| こんなんな		| dificultad (adj) 						|
+| 始まる　		| はじまる			| comenzarse (int) 						|
+| 始める　		| はじめる			| comenzar (tra) 							|
+| 始終　			| しじゅう			| siempre (always) 						|
+| 終わる　		| おわる				| terminarse (int) 						|
+| 終える　		| おえる				| terminar (tra) 							|
+| 終わり　		| おわり				| fin 												|
+| 最終な　		| さいしゅうな		| último 											|
+| 起きる　		| おきる				| levantarse (int) 						|
+| 起こす　		| おこす				| levantar (tra) 							|
+| 怒る　			| おこる				| ocurrir 										|
+| 起源　			| きげん				| origen 											|
+| 質　 			| しつ					| calidad  										|
+| 性質　			| せいしつ			| carácter (personalidad) 		|
+| 神経質　		| しんけいしつ		| nervioso 										|
+| 質問　			| しつもん			| pregunta 										|
+| 問題　			| もんだい			| problema, ejercicio 				|
+| 問い　			| とい					| pregunta 										|
+| 学問　			| がくもん			| estudio (ciencia) 					|
+| 恥ずかしい 	| はずかしい		| vergonzoso 									|
+| 恥　 			| はじ					| vergüenza 									|
+| 恥知らずな 	| はじしらずな		| sin vergüenza 							|
