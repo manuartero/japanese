@@ -6,6 +6,8 @@
 | cerrar　					| 閉める　				| 閉まる				|
 | decidir　					| 決める　				| 決まる				|
 | terminar　				| 続ける　				| 続く					|
+| apagar            | 消す            | 消える        |
+| encender          | つける          | つく          |
 | romper　					| こわす　				| こわれる			|
 | pegar　						| 付ける　				| 付く					|
 | entregar　				| とどける　			| とどく				|
