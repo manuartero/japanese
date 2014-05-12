@@ -1,7 +1,7 @@
 
 # 猫になる
 
-![cover](https://lh5.googleusercontent.com/62vmSnzPpI1PfOkuXYMXncV_GoBAMQuogRsbvuCY9erdYuZRfi_HmR-PrfyyuzrXFyFkolecb2U)
+![cover](https://raw.githubusercontent.com/manutero/Japanese/master/A2-2/Redacciones/img/0_cover.jpg)
 
 昔々　ある国に、良い人々が　住んでいた。
 
@@ -16,7 +16,7 @@
 町に、ちょうこくかも　住んでいた。その人は　ちょうこくかが好きで、ちょうこくに　はげんだ。</br>
 ちょうこくかは　とても上手になり、ちょうぞうは　すばらしい作品だった。
 
-![intro](https://github.com/manutero/Japanese/blob/master/A2-2/Redacciones/img/0_cover.jpg)
+![intro](https://raw.githubusercontent.com/manutero/Japanese/master/A2-2/Redacciones/img/1_intro.jpg)
 
 毎朝、男の人が　畑で働いている時、ちょうこくかは　ちょうぞうを　作った。</br>
 毎晩、皆　食べながら、ちょうこくかと　話した。
@@ -38,7 +38,7 @@
 
 王様とへいしたちは　ちょうこくかの町に　逃げた。
 
-![body](https://github.com/manutero/Japanese/blob/master/A2-2/Redacciones/img/2_body.jpg)
+![body](https://raw.githubusercontent.com/manutero/Japanese/master/A2-2/Redacciones/img/2_body.jpg)
 
 毎朝、男の人は　畑に働きに行って、野菜や果物などを　育てた。</br>
 毎朝、女の人は　家で、子供を　育てた。
@@ -73,7 +73,7 @@
 
 若いへいしは「待ってみんな、あそこ見て！」と言った。
 
-![ending](https://github.com/manutero/Japanese/blob/master/A2-2/Redacciones/img/3_ending.jpg)
+![ending](https://raw.githubusercontent.com/manutero/Japanese/master/A2-2/Redacciones/img/3_ending.jpg)
 
 すべてのへいしは　光るちょうぞうを　見ると、新しい力を　手に入れました。
 
