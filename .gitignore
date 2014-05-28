@@ -8,5 +8,8 @@
 # Odt temporal files
 *.odt#
 
+# Pdf
+*.pdf
+
 # Finder icon folder
 Icon
