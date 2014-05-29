@@ -8,6 +8,9 @@
 # Odt temporal files
 *.odt#
 
+# Private folder
+Otros/
+
 # Pdf
 *.pdf
 
